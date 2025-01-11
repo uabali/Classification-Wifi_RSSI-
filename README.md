@@ -1,4 +1,4 @@
-final assignment of pattern recognition course
+final assignment of pattern recognition class
 
 
 if you want to download
